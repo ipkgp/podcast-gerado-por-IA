@@ -24,7 +24,7 @@ A ideia é mostrar como a inteligência artificial pode transformar ideias em co
 
 ## 🎧 Ouça o episódio
 
-👉 [Clique aqui para ouvir o áudio](PodCastIA-GarimpoDitital.MP3)
+👉 [Clique aqui para ouvir o áudio](PodCastIA-GarimpoDigital.MP3)
 
 ---
 
