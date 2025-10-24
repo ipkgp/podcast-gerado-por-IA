@@ -18,12 +18,7 @@ A ideia é mostrar como a inteligência artificial pode transformar ideias em co
 ---
 
 ## 🖼️ Capa
-<p align="center">
-  <img
-    scr="/assets/Gemini_Generated_Image_yyh8w8yyh8w8yyh8.png"
-    width="200"
-/>
-  
+
 ![Capa do podcast](Gemini_Generated_Image_yyh8w8yyh8w8yyh8.png)
 
 ---
@@ -40,6 +35,15 @@ Durante esse projeto, aprendi sobre:
 - Geração de conteúdo com IA
 - Automação de áudio
 - Publicação de projetos no GitHub
+
+---
+
+## ⚙️ Ferramentas Usadas
+
+- [ChatGPT](https://chat.openai.com/)
+- [GEMINI](https://gemini.google.com/app?hl=pt-BR)
+- [ElevenLABS](https://elevenlabs.io/?gad_source=1&gad_campaignid=23092110430&gbraid=0AAAAAqiHkX1iX0klFk_k8sANB2xKwDmP9&gclid=CjwKCAjwx-zHBhBhEiwA7Kjq6wmtSNWHZcrYVsdT5JVp21sFOyepweLss2hg9LD80TIOjBzVW9GC-RoCA54QAvD_BwE)
+- [CapCUT](https://www.capcut.com/pt-br/)
 
 ---
 
