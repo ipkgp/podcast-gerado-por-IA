@@ -8,7 +8,7 @@ O projeto explora como a IA pode ser usada para criar roteiros, narrativas e exp
 ## 💡 Sobre o projeto
 
 **O Garimpo Digital** é um podcast experimental criado com IA, unindo criatividade, tecnologia e automação de voz.  
-A ideia é mostrar como a inteligência artificial pode transformar ideias em conteúdo falado.
+A ideia é mostrar como a inteligência artificial pode transformar ideias em conteúdo falado. O Podcast fala um pouco sobre Análise de Dados.
 
 ---
 
