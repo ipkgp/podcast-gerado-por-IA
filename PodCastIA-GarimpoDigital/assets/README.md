@@ -33,15 +33,15 @@ A ideia é mostrar como a inteligência artificial pode transformar ideias em co
 
 Durante esse projeto, aprendi sobre:
 - Geração de conteúdo com IA
-- Automação de áudio
-- Publicação de projetos no GitHub
+- Geraçao de áudio com IA
+- Criação de Prompts eficientes.
 
 ---
 
 ## ⚙️ Ferramentas Usadas
 
 - [ChatGPT](https://chat.openai.com/)
-- [GEMINI](https://gemini.google.com/app?hl=pt-BR)
+- [Gemini](https://gemini.google.com/app?hl=pt-BR)
 - [ElevenLABS](https://elevenlabs.io/?gad_source=1&gad_campaignid=23092110430&gbraid=0AAAAAqiHkX1iX0klFk_k8sANB2xKwDmP9&gclid=CjwKCAjwx-zHBhBhEiwA7Kjq6wmtSNWHZcrYVsdT5JVp21sFOyepweLss2hg9LD80TIOjBzVW9GC-RoCA54QAvD_BwE)
 - [CapCUT](https://www.capcut.com/pt-br/)
 
