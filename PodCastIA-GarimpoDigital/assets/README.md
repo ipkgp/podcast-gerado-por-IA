@@ -18,7 +18,7 @@ A ideia é mostrar como a inteligência artificial pode transformar ideias em co
 ---
 
 ## 🖼️ Capa
-![Capa do podcast](assets/Gemini_Generated_Image_yyh8w8yyh8w8yyh8.png)
+![Capa do podcast](Gemini_Generated_Image_yyh8w8yyh8w8yyh8.png)
 
 ---
 
