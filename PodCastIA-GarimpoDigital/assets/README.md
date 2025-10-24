@@ -18,13 +18,16 @@ A ideia é mostrar como a inteligência artificial pode transformar ideias em co
 ---
 
 ## 🖼️ Capa
+<img
+  scr="./assets/Gemini_Generated_Image_yyh8w8yyh8w8yyh8.png"
+  width="300"
 ![Capa do podcast](Gemini_Generated_Image_yyh8w8yyh8w8yyh8.png)
 
 ---
 
 ## 🎧 Ouça o episódio
 
-👉 [Clique aqui para ouvir o áudio](PodCastIA-GarimpoDigital.MP3)
+👉 [Clique aqui para ouvir o áudio](Garimpo-Digital#1.MP3)
 
 ---
 
