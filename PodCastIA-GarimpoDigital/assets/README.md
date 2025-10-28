@@ -20,7 +20,7 @@ A ideia é mostrar como a inteligência artificial pode transformar ideias em co
 ## 🖼️ Capa do Podcast
 
 <p align="center">
-  <img src="Gemini_Generated_Image_yyh8w8yyh8w8yyh8.png" alt="Capa do Podcast" width="350px">
+  <img src="Gemini_Generated_Image_yyh8w8yyh8w8yyh8.png" alt="Capa do Podcast" width="400px">
 </p>
 
 
